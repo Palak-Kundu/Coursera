@@ -1,0 +1,18 @@
+ul.topnav {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: navy;
+    position: sticky;
+    width: 100%;
+    overflow: hidden;
+}
+li.topnav {
+    list-style-type: none;
+    padding: 5px;
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    color: white;
+    border: 1px solid gray;
+}
