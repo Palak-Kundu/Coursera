@@ -5,6 +5,10 @@
 * {
     box-sizing: border-box;
 }
+.navbar {
+    margin: 0px;
+
+}
 #chicken {
     font-size: 1.25em;
     border: 1px solid black;
